@@ -3,10 +3,10 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Portal.AI - Ultimate Access to Next-Gen Assistance",
+  title: "Portal.AI - Ultra-Fast Next-Gen AI Assistant & Intelligent Gateway",
   description:
-    "Next-generation AI assistant inspired by Google Gemini. Ultra-fast Groq intelligence, dynamic greetings, live Tavily web grounding, 3D fluid visualizer, and multimodal attachments.",
-  keywords: ["Portal.AI", "AI Assistant", "Groq", "Tavily", "Gemini", "Next.js", "Demlabs"],
+    "Next-generation AI assistant engineered for instant real-time reasoning, dynamic greetings, live web intelligence, 3D fluid neural visualizer, and multimodal attachments.",
+  keywords: ["Portal.AI", "AI Assistant", "Fast AI", "Multimodal AI", "3D Visualizer", "Next.js", "Demlabs Inc"],
   icons: {
     icon: "/favicon.ico",
   },
